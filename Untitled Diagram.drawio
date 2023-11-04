@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-11-04T08:13:19.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pD9fRFZt9c5FukMQtPu6" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-04T08:28:28.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="utber8a5Z03gvKY3LMUz" version="22.0.8" type="github" pages="2">
   <diagram id="iPii5IAVhV1k_fZ_5pyl" name="Ecosystem personal finances">
-    <mxGraphModel dx="3180" dy="1467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3033" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="OOReyySpFGHpTE3rpQZM-17" value="CHECKINGS" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-135" y="185" width="230" height="40" as="geometry" />
+          <mxGeometry x="-122.5" y="172.5" width="205" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OOReyySpFGHpTE3rpQZM-18" value="SAVINGS" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-132.5" y="437.5" width="225" height="40" as="geometry" />
+          <mxGeometry x="-86.25" y="481.25" width="132.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OOReyySpFGHpTE3rpQZM-21" value="&lt;h1&gt;BOLERO&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry y="680" width="190" height="40" as="geometry" />
@@ -17,19 +17,13 @@
           <mxGeometry y="30" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0on_3xp9dc9B6Jy0RrO1-7" value="FINANCIAL ASSETS" style="text;html=1;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;fontStyle=1;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry y="610" width="470" height="30" as="geometry" />
+          <mxGeometry y="590" width="470" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rVDHYZrZojUpqgVQwpQp-3" value="INCOME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rVDHYZrZojUpqgVQwpQp-4" value="EXPENSES" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QkH47_juOp2wle0N5-HM-3" value="&lt;h1&gt;Open Source Budget Tool.&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;GnuCash&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="210" width="170" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="QkH47_juOp2wle0N5-HM-5" value="&lt;h1&gt;Freelancer&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;* Virtual assistant&lt;/li&gt;&lt;li&gt;* Checks all bookings&lt;/li&gt;&lt;li&gt;Askss questions on Mattermost.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="747" y="90" width="190" height="120" as="geometry" />
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-7" value="&lt;h1&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Import statement&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;* Bank&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="745" y="585" width="130" height="120" as="geometry" />
@@ -47,19 +41,24 @@
           <mxGeometry x="740" y="300" width="360" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-17" value="Savings account I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="420" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="40" y="440" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-18" value="Savings account II" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="490" width="120" height="27.5" as="geometry" />
+          <mxGeometry x="40" y="510" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-19" value="Savings for travels" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="530" width="120" height="10" as="geometry" />
+          <mxGeometry x="40" y="550" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-20" value="Savings for taxes" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="460" width="120" height="10" as="geometry" />
+          <mxGeometry x="40" y="480" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QkH47_juOp2wle0N5-HM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkH47_juOp2wle0N5-HM-22" target="QkH47_juOp2wle0N5-HM-30">
+        <mxCell id="QkH47_juOp2wle0N5-HM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QkH47_juOp2wle0N5-HM-22" target="QkH47_juOp2wle0N5-HM-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-2" value="í ½í´—" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QkH47_juOp2wle0N5-HM-34">
+          <mxGeometry x="0.0418" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-22" value="Checkings card I" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="90" width="120" height="27.5" as="geometry" />
@@ -67,8 +66,13 @@
         <mxCell id="QkH47_juOp2wle0N5-HM-23" value="General expenses" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="130" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="QkH47_juOp2wle0N5-HM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QkH47_juOp2wle0N5-HM-24" target="QkH47_juOp2wle0N5-HM-32">
+        <mxCell id="QkH47_juOp2wle0N5-HM-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="QkH47_juOp2wle0N5-HM-24" target="QkH47_juOp2wle0N5-HM-32">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-3" value="í ½í´—" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QkH47_juOp2wle0N5-HM-35">
+          <mxGeometry x="-0.0136" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="QkH47_juOp2wle0N5-HM-24" value="Checkings card II" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="170" width="120" height="27.5" as="geometry" />
@@ -95,7 +99,28 @@
           <mxGeometry x="240" y="210" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="rSvlCUjp8xTFsUJpWQlQ-1" value="PERSONAL FINANCES&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-260" y="280" width="225" height="40" as="geometry" />
+          <mxGeometry x="-476.25" y="391.25" width="657.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-4" value="MASTERCARD" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-63.129999999999995" y="350" width="86.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="rSvlCUjp8xTFsUJpWQlQ-5" target="QkH47_juOp2wle0N5-HM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-5" value="Personal Mastercard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="356.25" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-7" value="BUSINESS FINANCES" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-442.5" y="1080" width="590" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-9" value="Process Transactions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="110" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-10" value="" style="shape=mxgraph.bpmn.data;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;size=15;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rSvlCUjp8xTFsUJpWQlQ-11" value="GnuCash&lt;br&gt;Monthly transactions" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="75" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
