@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T15:53:34.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="h73uQ7rUh5pvTcRLLAba" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T15:54:43.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UPrbKCFG02qDOYe-4ify" version="22.1.1" type="github">
   <diagram name="Page-1" id="Svr2eNNulgBjU5TI-TkD">
     <mxGraphModel dx="1232" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -34,11 +34,23 @@
         <mxCell id="297eohIpfHL4V6CLoh7R-8" value="AI agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="297eohIpfHL4V6CLoh7R-10" value="AI agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="297eohIpfHL4V6CLoh7R-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-10" target="297eohIpfHL4V6CLoh7R-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-10" value="Sanity Check" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-12" value="- API&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-13" target="297eohIpfHL4V6CLoh7R-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-13" value="Generate CSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-15" value="Import in GnuCash or Firefly" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
