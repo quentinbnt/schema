@@ -1,37 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T16:00:06.395Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="w8Km7HEsugNc58E6IBos" version="22.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-14T16:01:31.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tDfF6uR4P94Fa1lgQP0s" version="22.1.1" type="github" pages="2">
   <diagram name="Accounting" id="Svr2eNNulgBjU5TI-TkD">
-    <mxGraphModel dx="1540" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1540" dy="1375" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="297eohIpfHL4V6CLoh7R-18" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="70" y="150" width="180" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="297eohIpfHL4V6CLoh7R-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-1" target="297eohIpfHL4V6CLoh7R-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="300" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="297eohIpfHL4V6CLoh7R-1" value="MASTERCARD Statements&amp;nbsp;&lt;br&gt;.csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-17" target="297eohIpfHL4V6CLoh7R-8">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="450" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="297eohIpfHL4V6CLoh7R-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="297eohIpfHL4V6CLoh7R-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="210" y="330" as="sourcePoint" />
-            <mxPoint x="320" y="330" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="297eohIpfHL4V6CLoh7R-4" value="TRANSACTION&lt;br&gt;statements&lt;br&gt;.csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-6" target="297eohIpfHL4V6CLoh7R-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="390" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qG-bWJxIP9YeP2E0Dk0M-1" value="N8N flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="297eohIpfHL4V6CLoh7R-7">
+          <mxGeometry x="-0.2041" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-6" value="EMAIl watchfolder (Invoices)." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -72,6 +57,26 @@
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-15" target="297eohIpfHL4V6CLoh7R-20">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qG-bWJxIP9YeP2E0Dk0M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.175;entryY=0.55;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-18" target="297eohIpfHL4V6CLoh7R-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qG-bWJxIP9YeP2E0Dk0M-4" value="N8N flow" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qG-bWJxIP9YeP2E0Dk0M-2">
+          <mxGeometry x="0.2145" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qG-bWJxIP9YeP2E0Dk0M-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="83" width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-18" value="" style="points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];rounded=1;dashed=1;dashPattern=5 2 1 2;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontSize=8;html=1;whiteSpace=wrap;" vertex="1" parent="qG-bWJxIP9YeP2E0Dk0M-3">
+          <mxGeometry width="180" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-1" value="MASTERCARD Statements&amp;nbsp;&lt;br&gt;.csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qG-bWJxIP9YeP2E0Dk0M-3">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="297eohIpfHL4V6CLoh7R-4" value="TRANSACTION&lt;br&gt;statements&lt;br&gt;.csv" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qG-bWJxIP9YeP2E0Dk0M-3">
+          <mxGeometry x="30" y="150" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
