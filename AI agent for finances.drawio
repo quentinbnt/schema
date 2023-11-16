@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T09:19:36.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="s1X-ucXlZlKT9NpP3g_r" version="22.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-16T09:25:36.115Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TO9gE5s6WJ5gbS7zGoO2" version="22.1.1" type="github" pages="3">
   <diagram name="Accounting" id="Svr2eNNulgBjU5TI-TkD">
     <mxGraphModel dx="1232" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -89,7 +89,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KMqb5ztoLplXiaIoC0C2" name="Pensiontracker">
-    <mxGraphModel dx="1232" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1232" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5rVs4tho-9lIqz2qByMU" name="Flow accountant">
+    <mxGraphModel dx="1232" dy="1133" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
