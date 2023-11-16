@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T09:18:45.144Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="zqfkxJUVcoMXEeMbSAgo" version="22.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-16T09:19:36.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="s1X-ucXlZlKT9NpP3g_r" version="22.1.1" type="github" pages="2">
   <diagram name="Accounting" id="Svr2eNNulgBjU5TI-TkD">
     <mxGraphModel dx="1232" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-13" value="Generate CSV" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="858" y="294" width="120" height="60" as="geometry" />
+          <mxGeometry x="846" y="294" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-15" value="Import in GnuCash or Firefly" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1016" y="294" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-17" value="Database" style="shape=datastore;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="448" y="201" width="50" height="50" as="geometry" />
+          <mxGeometry x="591" y="422" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="297eohIpfHL4V6CLoh7R-19" value="Jupyter notebook / python app" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="60" y="120" width="200" height="30" as="geometry" />
@@ -58,7 +58,7 @@
         <mxCell id="83nhdseOz8lgXGRz5lOK-1" value="Doccle monthly dumps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="522" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="83nhdseOz8lgXGRz5lOK-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="83nhdseOz8lgXGRz5lOK-4" target="297eohIpfHL4V6CLoh7R-17">
+        <mxCell id="83nhdseOz8lgXGRz5lOK-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="83nhdseOz8lgXGRz5lOK-4" target="83nhdseOz8lgXGRz5lOK-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="83nhdseOz8lgXGRz5lOK-4" value="AI refinery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -78,6 +78,12 @@
         </mxCell>
         <mxCell id="83nhdseOz8lgXGRz5lOK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="297eohIpfHL4V6CLoh7R-8" target="297eohIpfHL4V6CLoh7R-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83nhdseOz8lgXGRz5lOK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="83nhdseOz8lgXGRz5lOK-15" target="297eohIpfHL4V6CLoh7R-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="83nhdseOz8lgXGRz5lOK-15" value="3 way matching" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="305" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
