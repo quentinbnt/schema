@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T09:30:24.529Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Tn-L3-cQunoNSb6AY2zN" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-16T09:33:55.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="v2VHaJDLdUV2g5NaAPaJ" version="22.1.1" type="github" pages="3">
   <diagram name="Accounting" id="Svr2eNNulgBjU5TI-TkD">
     <mxGraphModel dx="1232" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5rVs4tho-9lIqz2qByMU" name="Flow accountant">
-    <mxGraphModel dx="2059" dy="1133" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2587" dy="1619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,10 +129,13 @@
           <mxGeometry x="820" y="85" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bBaW82Sd-ZDBNpptJKvC-10" value="Accountant" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="70" width="1080" height="140" as="geometry" />
+          <mxGeometry x="-50" y="70" width="1397" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IwLb3chRw5YeFTO1OTe8-4" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=end;symbol=terminate2;" vertex="1" parent="bBaW82Sd-ZDBNpptJKvC-10">
+          <mxGeometry x="1050" y="20" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bBaW82Sd-ZDBNpptJKvC-11" value="&lt;div&gt;Quentin&lt;/div&gt;" style="swimlane;startSize=20;horizontal=0;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="210" width="1080" height="140" as="geometry" />
+          <mxGeometry x="-50" y="210" width="1397" height="142" as="geometry" />
         </mxCell>
         <mxCell id="bBaW82Sd-ZDBNpptJKvC-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="bBaW82Sd-ZDBNpptJKvC-11" source="bBaW82Sd-ZDBNpptJKvC-13" target="bBaW82Sd-ZDBNpptJKvC-15">
           <mxGeometry relative="1" as="geometry" />
@@ -144,6 +147,9 @@
           <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IwLb3chRw5YeFTO1OTe8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.418;entryY=1.1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBaW82Sd-ZDBNpptJKvC-15" target="bBaW82Sd-ZDBNpptJKvC-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IwLb3chRw5YeFTO1OTe8-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bBaW82Sd-ZDBNpptJKvC-8" target="IwLb3chRw5YeFTO1OTe8-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
